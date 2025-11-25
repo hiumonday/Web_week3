@@ -1,1 +1,2 @@
-# Web_week3
+npm i
+npm run dev
